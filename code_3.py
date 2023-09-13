@@ -1,3 +1,5 @@
+#CIS 3330 - CODE 3
+# Use file_content to conduct your analysis
 
 file_content = open('Office_Products_Modified.txt').read()
 
