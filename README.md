@@ -1,4 +1,4 @@
-## CODE 4 - Reading Files and Counting Words
+## CODE 3 - Reading Files and Counting Words
 ## Instructions
 
 This coding assignment asks you to create a program to read a file and obtain the frequency of words in its content.
