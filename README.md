@@ -16,7 +16,7 @@ Your program should include the following functions:
 * `get_number_of_products`
   + The function returns the **number** of products in the dataset.
 
-## Aknowlegements
+## Acknowledgments 
 
 The original Office Product dataset was obtained from: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 
