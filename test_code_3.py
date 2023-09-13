@@ -1,11 +1,11 @@
 import os,sys
 import random
 import pytest
-from code_3 import test_word_a
-from code_3 import test_word_b
-from code_3 import test_word_c
-from code_3 import test_word_d
-from code_3 import test_number_of_words
+from code_3 import get_number_of_great
+from code_3 import get_number_of_recommend
+from code_3 import get_number_of_free
+from code_3 import get_number_of_office
+from code_3 import get_number_of_products
 
 def check_if_file_exists():
     try:
